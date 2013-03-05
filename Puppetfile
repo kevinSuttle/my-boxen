@@ -34,5 +34,17 @@ github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
 
+
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "dnsmasq",  "1.0.0"
+github "dropbox", "1.0.0"
+github "droplr", "1.0.0"
+github "chrome", "1.0.0"
+github "divvy", "1.0.0"
+github "heroku", "1.0.0"
+github "macvim", "1.0.0"
+github "spotify", "1.0.0"
+github "sublime_text_2", "1.0.0"
+github "vim", "1.0.0"
+github "zsh", "1.0.0"
