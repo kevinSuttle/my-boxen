@@ -9,9 +9,29 @@ GITHUBTARBALL
     boxen (3.0.2)
 
 GITHUBTARBALL
+  remote: boxen/puppet-chrome
+  specs:
+    chrome (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-divvy
+  specs:
+    divvy (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
   specs:
     dnsmasq (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-dropbox
+  specs:
+    dropbox (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-droplr
+  specs:
+    droplr (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-gcc
@@ -24,6 +44,11 @@ GITHUBTARBALL
     git (1.2.5)
 
 GITHUBTARBALL
+  remote: boxen/puppet-heroku
+  specs:
+    heroku (1.0.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-homebrew
   specs:
     homebrew (1.4.1)
@@ -32,6 +57,11 @@ GITHUBTARBALL
   remote: boxen/puppet-hub
   specs:
     hub (1.0.3)
+
+GITHUBTARBALL
+  remote: boxen/puppet-macvim
+  specs:
+    macvim (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-nginx
@@ -67,6 +97,27 @@ GITHUBTARBALL
   remote: boxen/puppet-xquartz
   specs:
     xquartz (1.1.0)
+    
+ GITHUBTARBALL 
+  remote: boxen/puppet-sublime_text_2
+  specs:
+     sublime_text_2 (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-spotify
+  specs:
+     spotify (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-vim
+  specs:
+     vim (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-zsh
+  specs:
+    zsh (1.0.0)
+
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
@@ -78,10 +129,31 @@ GITHUBTARBALL
   specs:
     stdlib (4.1.0)
 
+
 DEPENDENCIES
   autoconf (= 1.0.0)
   boxen (= 3.0.2)
   dnsmasq (= 1.0.0)
+  dropbox (= 1.0.0)
+  droplr (= 1.0.0)
+  chrome (= 1.0.0)
+  divvy (= 1.0.0)
+  gcc (= 1.0.0)
+  git (= 1.0.0)
+  heroku (= 1.0.0)
+  homebrew (= 1.0.0)
+  hub (= 1.0.0)
+  inifile (= 0.9.0)
+  macvim (= 1.0.0)
+  nginx (= 1.0.0)
+  nodejs (= 1.0.0)
+  nvm (= 1.0.0)
+  ruby (= 1.0.0)
+  spotify (= 1.0.0)
+  stdlib (= 3.0.0)
+  sublime_text_2 (= 1.0.0)
+  vim (= 1.0.0)
+  zsh (= 1.0.0)
   gcc (= 2.0.1)
   git (= 1.2.5)
   homebrew (= 1.4.1)
