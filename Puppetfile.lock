@@ -6,7 +6,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-boxen
   specs:
-    boxen (3.0.2)
+    boxen (3.0.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-chrome
@@ -86,7 +86,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-ruby
   specs:
-    ruby (6.3.4)
+    ruby (6.3.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-sudo
@@ -97,7 +97,7 @@ GITHUBTARBALL
   remote: boxen/puppet-xquartz
   specs:
     xquartz (1.1.0)
-    
+
  GITHUBTARBALL 
   remote: boxen/puppet-sublime_text_2
   specs:
@@ -118,7 +118,6 @@ GITHUBTARBALL
   specs:
     zsh (1.0.0)
 
-
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
   specs:
@@ -132,39 +131,30 @@ GITHUBTARBALL
 
 DEPENDENCIES
   autoconf (= 1.0.0)
-  boxen (= 3.0.2)
+  boxen (= 3.0.1)
+  chrome (= 1.0.0)
+  divvy (= 1.0.0)
   dnsmasq (= 1.0.0)
   dropbox (= 1.0.0)
   droplr (= 1.0.0)
-  chrome (= 1.0.0)
-  divvy (= 1.0.0)
-  gcc (= 1.0.0)
-  git (= 1.0.0)
-  heroku (= 1.0.0)
-  homebrew (= 1.0.0)
-  hub (= 1.0.0)
-  inifile (= 0.9.0)
-  macvim (= 1.0.0)
-  nginx (= 1.0.0)
-  nodejs (= 1.0.0)
-  nvm (= 1.0.0)
-  ruby (= 1.0.0)
-  spotify (= 1.0.0)
-  stdlib (= 3.0.0)
-  sublime_text_2 (= 1.0.0)
-  vim (= 1.0.0)
-  zsh (= 1.0.0)
   gcc (= 2.0.1)
   git (= 1.2.5)
+  heroku (= 1.0.0)
   homebrew (= 1.4.1)
   hub (= 1.0.3)
   inifile (= 1.0.0)
+  macvim (= 1.0.0)
   nginx (= 1.4.2)
   nodejs (= 3.2.9)
+  nvm (= 1.0.0)
   openssl (= 1.0.0)
   repository (= 2.2.0)
-  ruby (= 6.3.4)
+  ruby (= 6.3.0)
+  spotify (= 1.0.0)
   stdlib (= 4.1.0)
+  sublime_text_2 (= 1.0.0)
   sudo (= 1.0.0)
+  vim (= 1.0.0)
   xquartz (= 1.1.0)
+  zsh (= 1.0.0)
 
